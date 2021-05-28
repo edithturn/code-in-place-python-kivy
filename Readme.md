@@ -16,6 +16,6 @@ I have included a new library that I learned to create interfaces with Python, t
 * Example of Images
 
 
-<p align="uu.png">
-  <img width="500" height="350" src="img/k8s.png">
+<p align="center">
+  <img width="500" height="350" src="img/uu.gif">
 </p>
