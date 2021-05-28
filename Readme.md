@@ -16,6 +16,10 @@ I have included a new library that I learned to create interfaces with Python, t
 * Example of Images
 
 
+## How to use:
+```bash
+python3 final_project.py
+```
 <p align="center">
   <img width="500" height="350" src="img/uu.gif">
 </p>
