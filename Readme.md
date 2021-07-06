@@ -150,7 +150,7 @@ if __name__ == "__main__":
 
 
 
-# **Thanks Code In Place!**
+## **Thanks Code In Place!**
 
 <p align="center">
   <img width="500" height="350" src="img/uu.gif">
