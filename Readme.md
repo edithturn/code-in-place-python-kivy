@@ -12,7 +12,7 @@ It is a project where I am summarizing everything I have learned in Code In Plac
   * Images
   * Control Flow.
 
-I have included a new library that I learned to create interfaces with Python, this library is Kivy Python. 
+I have included a new library that I learned to create interfaces with Python, this library is **Kivy** Python.  :blue_car:
 
 
 ## **How to use it:**  :jack_o_lantern:
@@ -132,7 +132,7 @@ if __name__ == "__main__":
 
 ```
 
-**The graphical interface of this project**  :dancer:
+**The graphical interface of this project**  :ghost:
 
 <p align="center">
   <img width="500" height="350" src="img/gui-1.png">
