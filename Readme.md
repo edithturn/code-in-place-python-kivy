@@ -132,7 +132,7 @@ if __name__ == "__main__":
 
 ```
 
-**Graphical interface of this project**  :ghost:
+## **Graphical interface of this project**  :ghost:
 
 <p align="center">
   <img width="500" height="350" src="img/gui-1.png">
