@@ -1,4 +1,4 @@
-# **Code In Place Final Project**
+# **Code In Place Final Project** :herb: :seedling: :tulip:
 
 
 "Code in Place is a free introductory programming course using the Python language, based on material from the first half of Stanford University's established intro course, CS106A. "
@@ -132,7 +132,7 @@ if __name__ == "__main__":
 
 ```
 
-**The graphical interface of this project**  :ghost:
+**Graphical interface of this project**  :ghost:
 
 <p align="center">
   <img width="500" height="350" src="img/gui-1.png">
